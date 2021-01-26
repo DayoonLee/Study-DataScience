@@ -1,0 +1,2 @@
+function vol = calcvol(radi, rado)
+ vol = 4/3 * pi * (rado.^3 - rad
