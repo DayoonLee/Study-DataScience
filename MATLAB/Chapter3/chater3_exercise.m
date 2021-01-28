@@ -34,3 +34,44 @@
 % echostring(in);
 
 %10
+% b = input('Enter the first side: ');
+% c = input('Enter the second side: ');
+% alpha = input('Enter the angle between them: ');
+% thirdside(b, c, alpha);
+
+%14
+% x = 1:10;
+% y = x+5;
+% plot(x,y,'g+')
+
+%15
+% x = linspace(0, pi, 10);
+% y = sin(x);
+% plot(x,y)
+
+%17
+% n = randi(10, 1);
+% v = 1:2:n;
+% plot(v, v.^2, 'b+')
+
+%24
+% length = input('Enter the length: ');
+% width = input('Enter the width: ');
+% calcrectarea(length, width);
+
+%27
+% in = input('Enter the velocity of aircraft in miles per hour: ');
+% calcvelocity(in);
+
+%30
+% r = input('Enter the number of rows: ');
+% c = input('Enter the number of columns: ');
+% fives(r, c);
+
+%31
+% a = input("Enter a number: ");
+% isdivby4(a);
+
+%41
+F = input('F: ');
+decaying(F);
